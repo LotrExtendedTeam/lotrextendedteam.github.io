@@ -14,9 +14,9 @@ export default function Download() {
 
             <div className="scroll-card rounded-sm p-10 mb-8">
                 <div className="version-pill inline-block mb-6">Latest Release</div>
-                <div className="font-display text-5xl mb-2 version">v1.10.1</div>
+                <div className="font-display text-5xl mb-2 version">v1.10.2</div>
                 <p className="font-heading text-xs tracking-widest mb-6 published">PUBLISHED
-                    MAY 16TH, 2026</p>
+                    JUNE 19TH, 2026</p>
                 <p className="text-sm mb-8 leading-relaxed published-subheader">
                     Requires Minecraft Forge 1.16.5 and <a href="https://www.curseforge.com/minecraft/mc-mods/the-lord-of-the-rings-mod-renewed">Mevans' LOTR Renewed mod</a>.
                 </p>

@@ -27,7 +27,7 @@ export default function Hero() {
             </p>
 
             <div className="fade-up delay-3 flex flex-wrap items-center justify-center gap-4 mb-12">
-                <a href="#download" className="btn-primary">Download v1.10.1</a>
+                <a href="#download" className="btn-primary">Download v1.10.2</a>
                 <a href="#features" className="btn-secondary">Explore Features</a>
             </div>
 
